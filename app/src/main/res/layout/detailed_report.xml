@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2AC6AA"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:paddingBottom="20dp">
+
+    </TableLayout>
+
+
+    <TextView
+        android:id="@+id/detailed_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Name here"
+        android:textSize="30sp" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="20dp">
+
+
+        <com.example.calculationsystem.Containers.UnScrollableListView
+            android:id="@+id/detailed_listLand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="20dp">
+
+
+        </com.example.calculationsystem.Containers.UnScrollableListView>
+
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/detailed_total_req"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="50dp"
+        android:gravity="right"
+        android:text="Итог"
+        android:textSize="20sp" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="20dp">
+
+
+        <com.example.calculationsystem.Containers.UnScrollableListView
+            android:id="@+id/detailed_listPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="20dp"
+
+            >
+
+
+        </com.example.calculationsystem.Containers.UnScrollableListView>
+
+
+    </ScrollView>
+
+
+    <TextView
+        android:id="@+id/detailed_total_left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="50dp"
+        android:gravity="right"
+        android:text="Money paid"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/detailed_total_paid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="50dp"
+        android:gravity="right"
+        android:text="Money in"
+        android:textSize="20sp" />
+
+
+</LinearLayout>

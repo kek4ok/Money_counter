@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/add_payment.xml" value="0.18" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/adding_page.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/assign_lands.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/customers_menu.xml" value="0.33" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/detailed_report.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/main_menu.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/my_account.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/my_report.xml" value="0.22" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/registration.xml" value="0.33" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/report_choose.xml" value="0.25" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/report_ticket.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/kek4o/Documents/Visual Studio 2019/Renting-managment-Application-master/app/src/main/res/layout/reports.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#2AC6AA"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/mainBlock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/twemoji_coin" />
+
+
+    <Button
+        android:id="@+id/btn_addCustomer"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:layout_marginTop="70dp"
+        android:onClick="SceneChanger"
+        android:orientation="vertical"
+        android:text="Операции" />
+
+
+    <Button
+        android:id="@+id/btn_reports"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_marginTop="70dp"
+        android:minWidth="170dp"
+        android:onClick="SceneChanger"
+        android:orientation="vertical"
+        android:text="Отчет" />
+
+    <Button
+        android:id="@+id/btn_myAccount"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_marginTop="70dp"
+        android:minWidth="170dp"
+        android:onClick="SceneChanger"
+        android:orientation="vertical"
+        android:text="Мой аккаунт" />
+
+
+</LinearLayout>

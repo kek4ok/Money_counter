@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818228681435",
+    "project_id": "registration-c4c2c",
+    "storage_bucket": "registration-c4c2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818228681435:android:9a8581a760f7441c514afe",
+        "android_client_info": {
+          "package_name": "com.example.calculationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818228681435-kleonmsvn687avrl81j65hah7r1s3bgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC270kJOc3PeU43qvFJQ50VTVBRqspMhaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818228681435-kleonmsvn687avrl81j65hah7r1s3bgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
